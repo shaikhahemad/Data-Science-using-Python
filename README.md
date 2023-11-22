@@ -52,7 +52,7 @@ This Git repository serves as a comprehensive resource for Data Science using Py
       - Apache Spark for handling large datasets
 
 ## 12. Deployment and Production
-    - Learn how to deploy models and integrate them into production systems.
+   - Learn how to deploy models and integrate them into production systems.
 
 ## 13. Version Control
     - Use tools like Git for version control and collaboration.
