@@ -44,8 +44,8 @@ This Git repository serves as a comprehensive resource for Data Science using Py
 
 ## 10. Model Evaluation and Selection
    - Understand metrics for evaluating models:
-    - Accuracy, precision, recall
-    - Techniques for model selection.
+     - Accuracy, precision, recall
+     - Techniques for model selection.
 
 ## 11. Big Data Technologies (Optional)
    - Explore tools like:
