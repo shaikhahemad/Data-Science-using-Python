@@ -9,7 +9,7 @@ Descriptive statistics summarize and describe the main features of a dataset.
 ### Measures of Central Tendency
 
 - **Mean (Average):**
-  $$ \bar{X} = \frac{\sum_{i=1}^{n} X_i}{n} $$
+  \( \bar{X} = \frac{\sum_{i=1}^{n} X_i}{n} \)
 
 - **Median:**
   The middle value in a sorted dataset.
@@ -20,10 +20,10 @@ Descriptive statistics summarize and describe the main features of a dataset.
 ### Measures of Dispersion
 
 - **Variance:**
-  $$ \sigma^2 = \frac{\sum_{i=1}^{n} (X_i - \bar{X})^2}{n} $$
+  \( \sigma^2 = \frac{\sum_{i=1}^{n} (X_i - \bar{X})^2}{n} \)
 
 - **Standard Deviation:**
-  $$ \sigma = \sqrt{\sigma^2} $$
+  \( \sigma = \sqrt{\sigma^2} \)
 
 - **Range:**
   The difference between the maximum and minimum values.
