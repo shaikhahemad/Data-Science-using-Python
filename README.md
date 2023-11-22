@@ -43,28 +43,28 @@ This Git repository serves as a comprehensive resource for Data Science using Py
    - Learn techniques to create meaningful features for machine learning models.
 
 ## 10. Model Evaluation and Selection
-    - Understand metrics for evaluating models:
-      - Accuracy, precision, recall
+   - Understand metrics for evaluating models:
+    - Accuracy, precision, recall
     - Techniques for model selection.
 
 ## 11. Big Data Technologies (Optional)
-    - Explore tools like:
-      - Apache Spark for handling large datasets
+   - Explore tools like:
+     - Apache Spark for handling large datasets
 
 ## 12. Deployment and Production
    - Learn how to deploy models and integrate them into production systems.
 
 ## 13. Version Control
-    - Use tools like Git for version control and collaboration.
+   - Use tools like Git for version control and collaboration.
 
 ## 14. Advanced Topics
-    - Dive into advanced topics based on interests:
-      - Natural Language Processing (NLP)
-      - Time Series Analysis
+   - Dive into advanced topics based on interests:
+     - Natural Language Processing (NLP)
+     - Time Series Analysis
 
 ## 15. Stay Updated
-    - Keep up with the latest developments in the field through:
-      - Blogs, conferences, and online courses.
+   - Keep up with the latest developments in the field through:
+     - Blogs, conferences, and online courses.
 
 Remember, adapt the roadmap based on your interests and career goals. Continuous
 learning and hands-on projects are key to mastering data science in Python.
