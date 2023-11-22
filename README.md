@@ -68,3 +68,9 @@ This Git repository serves as a comprehensive resource for Data Science using Py
 
 Remember, adapt the roadmap based on your interests and career goals. Continuous
 learning and hands-on projects are key to mastering data science in Python.
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
+Copyright (c) 2023 AhemadSk71
